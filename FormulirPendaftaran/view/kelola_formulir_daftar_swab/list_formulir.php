@@ -38,3 +38,5 @@
 </body>
 
 </html>
+
+ini dari remote
